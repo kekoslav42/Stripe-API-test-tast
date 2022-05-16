@@ -1,1 +1,1 @@
-# Django-Stripe-API
+# Stripe-api-test-tast
