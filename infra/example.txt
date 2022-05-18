@@ -1,0 +1,10 @@
+SECRET_KEY = secret_key
+STRIPE_API_KEY = api_key
+
+### ПРИ ИСПОЛЬЗОВАНИЕ postgresql
+DB_ENGINE=django.db.backends.postgresql
+DB_NAME=postgres
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=12345678
+DB_HOST=db
+DB_PORT=5432
